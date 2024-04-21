@@ -473,7 +473,7 @@ export default {
 				const uniqueAddressesnotls = [...new Set(addressesnotls)];
 
 				notlsresponseBody = uniqueAddressesnotls.map(address => {
-					let port = "80";
+					let port = "2052";
 					let addressid = address;
 				
 					const match = addressid.match(regex);
@@ -536,7 +536,7 @@ export default {
 			}
 
 			const responseBody = uniqueAddresses.map(address => {
-				let port = "443";
+				let port = "2053";
 				let addressid = address;
 			
 				const match = addressid.match(regex);
