@@ -1,12 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-130.61.203.115,8443,443,true,FRA,Europe,Frankfurt,195,11.60
-138.3.220.4,2082,2082,false,NRT,Asia Pacific,Tokyo,73,11.59
-141.147.162.204,8880,8880,false,NRT,Asia Pacific,Tokyo,69,11.59
-158.101.152.221,2052,2052,false,NRT,Asia Pacific,Tokyo,86,11.58
-131.186.61.45,80,80,false,NRT,Asia Pacific,Tokyo,71,11.58
-158.101.81.4,8080,8080,false,NRT,Asia Pacific,Tokyo,74,11.57
-141.147.179.64,2087,2087,true,NRT,Asia Pacific,Tokyo,86,11.57
-131.186.58.151,8080,8080IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
+IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
 20.185.28.234	44056	true	IAD	North America	Ashburn	232 ms	5666 kB/s
 20.220.204.217	443	true	YYZ	North America	Toronto	234 ms	4809 kB/s
 4.255.56.138	443	true	IAD	North America	Ashburn	277 ms	4526 kB/s
@@ -21,4 +13,4 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 20.62.202.159	443	true	IAD	North America	Ashburn	298 ms	1859 kB/s
 20.170.41.153	443	true	FRA	Europe	Frankfurt	285 ms	1576 kB/s
 51.120.240.115	8080	true	CPH	Europe	Copenhagen	293 ms	1225 kB/s
-52.137.60.154	443	true	AMS	Europe	Amsterdam	291 ms	406 kB/s
+52.137.60.154	443	true	AMS	Europe	Amsterdam	291 ms	406 kB/sAmsterdam	291 ms	406 kB/s
